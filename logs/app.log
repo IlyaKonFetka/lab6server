@@ -1,0 +1,21 @@
+2024-06-07 03:23:24 INFO  org.example.Main - test info
+2024-06-07 03:24:35 INFO  org.example.Main - test info
+2024-06-07 10:25:13 INFO  org.example.Main - test info
+2024-06-07 12:42:47 WARN  Server - Ошибка создания канала или селектора
+2024-06-07 12:50:13 INFO  Server - One more connected: /127.0.0.1:51893
+2024-06-07 12:50:17 INFO  Server - /127.0.0.1:51893: show
+2024-06-07 12:51:09 INFO  Server - One more connected: /127.0.0.1:51911
+2024-06-07 12:51:15 INFO  Server - /127.0.0.1:51911: show
+2024-06-07 12:51:20 INFO  Server - /127.0.0.1:51911: help
+2024-06-07 12:51:26 INFO  Server - One more connected: /127.0.0.1:51915
+2024-06-07 12:51:34 INFO  Server - /127.0.0.1:51915: clear
+2024-06-07 12:51:45 INFO  Server - /127.0.0.1:51915: help
+2024-06-07 12:51:48 INFO  Server - /127.0.0.1:51915: info
+2024-06-07 12:51:57 INFO  Server - /127.0.0.1:51915: add
+2024-06-07 12:52:07 INFO  Server - One more connected: /127.0.0.1:51922
+2024-06-07 12:53:18 INFO  Server - /127.0.0.1:51922: show
+2024-06-07 12:53:35 INFO  Server - /127.0.0.1:51922: info
+2024-06-07 12:53:43 INFO  Server - /127.0.0.1:51922: add
+2024-06-07 12:54:16 INFO  Server - One more connected: /127.0.0.1:51937
+2024-06-07 12:55:23 INFO  Server - /127.0.0.1:51937: add
+2024-06-07 12:55:47 INFO  Server - One more connected: /127.0.0.1:51957
